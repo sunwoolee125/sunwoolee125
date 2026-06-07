@@ -14,7 +14,7 @@ Tip: Replace "YOUR_GITHUB_ID", links, and project names.
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://sunwoolee.kr">
-    <img src="https://img.shields.io/badge/Blog-00C2FF?style=flat&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blog-00C2FF?style=flat&logo=About.me&logoColor=white" />
   </a>
 </p>
 
