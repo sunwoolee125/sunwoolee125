@@ -13,6 +13,9 @@ Tip: Replace "YOUR_GITHUB_ID", links, and project names.
   <a href="mailto:tjsdn3971@naver.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://sunwoolee.kr" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-181717?style=flat&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00C2FF&center=true&vCenter=true&width=820&lines=Backend+%26+Automation+Engineer;Java+Spring+Boot+%7C+Node.js+%7C+Python+%7C+Linux+DevOps;Reliable+pipelines%2C+clean+APIs%2C+and+production-ready+systems" alt="typing" />
